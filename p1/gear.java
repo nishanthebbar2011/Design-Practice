@@ -2,10 +2,7 @@ package p1;
 
 
 interface Gear{
-    
-
-    double ratio();
-
+  double ratio();
 }
 
 
